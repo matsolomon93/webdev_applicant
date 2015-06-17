@@ -23,3 +23,7 @@ make run
 You can view the webpage in your browser at http://localhost:5000
 
 Save and commit your changes to your version of the repository.
+
+The "attached" assets are contained in the assets directory.
+
+If something isn't working or you encounter errors please don't struggle with it, just e-mail Amir - it's likely a bug in the test not a fault of your own.

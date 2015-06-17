@@ -5,11 +5,11 @@
 
 ## Steps
 
-1. Fork this repository
+#### 1. Fork this repository
 
-2. Clone your forked version of the repository
+#### 2. Clone your forked version of the repository
 
-3. In terminal go into the repo and install virtualenv:
+#### 3. In terminal go into the repo and install virtualenv:
 
 ```
 cd skillstest_webdev
@@ -19,4 +19,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-4. Go into the individual test directory and read instructions from there
+#### 4. Go into the individual test directory and read instructions.md from there
