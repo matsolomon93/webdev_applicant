@@ -12,7 +12,7 @@
 #### 3. In terminal go into the repo and install virtualenv:
 
 ```
-cd skillstest_webdev
+cd webdev_applicant
 virtualenv --distribute venv
 
 source venv/bin/activate
