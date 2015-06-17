@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}One-Time Products{% endblock %}
+
+{% block page_content %} 
+	{{ shop.listing_page() }}
+{% endblock %}
+
+{% block page_javascript %}
+	{{ shop.listing_js() }}
+{% endblock %}
